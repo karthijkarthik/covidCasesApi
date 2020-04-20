@@ -16,7 +16,7 @@ The objective of this guide is to make a NodeJS Express web API connecting with 
 
 ## To run this project
 
-- Run the script located at "/docs/crud.sql" to create the database on MySQL Workbench or on another program of your preference.
+- Run the script located at "/app/assets/crud.sql" to create the database and table on MySQL Workbench or on another program of your preference.
 
 - Install the node modules by running the commands below at the root folder:
 
