@@ -1,0 +1,35 @@
+{
+  "name": "covid-cases",
+  "version": "1.0.0",
+  "description": "API explains about Covid-19 cases in Tamilnadu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthijkarthik/covidCasesApi.git"
+  },
+  "keywords": [
+    "covid-19",
+    "corona",
+    "nodejs",
+    "mysql",
+    "nodeapi"
+  ],
+  "author": "Karthik J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthijkarthik/covidCasesApi/issues"
+  },
+  "homepage": "https://github.com/karthijkarthik/covidCasesApi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "swagger-ui-express": "^4.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
